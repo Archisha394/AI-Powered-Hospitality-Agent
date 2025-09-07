@@ -1,0 +1,8 @@
+[project]
+name = "ai-hospitality-agent"
+version = "0.1.0"
+description = "AI-powered hospitality automation system (scaffold)"
+requires-python = ">=3.10"
+dependencies = [
+    "pydantic-settings>=2.5.2",
+]
